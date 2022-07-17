@@ -19,6 +19,7 @@
 	font-size: 15px;
 	/* background-image: url("../Icons/check_time_icon.svg"); */
 	background-size: 16px 20px;
+	background-color: #F8FAFC;
 }
 
 /* Компонент с выбором часового пояса ON*/

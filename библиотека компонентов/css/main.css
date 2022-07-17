@@ -24,3 +24,30 @@ header{
     max-width: 540px;
 	min-width: 653px;
 }
+
+.input_wrapper {
+	margin-bottom: 24px;
+}
+
+.form_label {
+	margin-bottom: 8px;
+	
+	font-weight: 400;
+	font-size: 13px;
+	color: #94A3B8;
+	line-height: 12px;
+}
+
+.form-select {
+	border-radius: 24px;
+	font-size: 15px;
+	background-size: 16px 20px;
+	background-color: #F8FAFC;
+}
+
+.flex-2 {
+	flex: 2 0;
+}
+.flex-1 {
+	flex: 1 0;
+}
